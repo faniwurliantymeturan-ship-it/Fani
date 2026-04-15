@@ -1,4 +1,4 @@
-# Fani
+
 
 <html lang="id">
 <head>
@@ -257,7 +257,6 @@
                             <div class="w3-progressbar w3-round w3-amber" style="width:85%">Kerjasama Tim</div>
                         </div>
                         <div class="w3-progress-container w3-round w3-margin-bottom" style="background:#f0e2cf;">
-                            <div class="w3-progressbar w3-round w3-amber" style="width:88%">Adaptasi & Problem Solving</div>
                         </div>
                         <h6 class="w3-margin-top"><i class="fas fa-laptop-code"></i> <strong>Skill Teknis</strong></h6>
                         <div class="w3-progress-container w3-round w3-margin-bottom" style="background:#f0e2cf;">
