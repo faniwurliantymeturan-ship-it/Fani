@@ -184,7 +184,7 @@
                 <div class="w3-row">
                     <div class="w3-col s12 m4 w3-center"><i class="fas fa-id-card" style="font-size: 48px; color:#b48c48;"></i></div>
                     <div class="w3-col s12 m8">
-                        <p><strong><i class="fas fa-circle-check"></i> Status:</strong> Mahasiswa Aktif Semester 3</p>
+                        <p><strong><i class="fas fa-circle-check"></i> Status:</strong> Mahasiswa Aktif Semester 4</p>
                         <p><strong><i class="fas fa-university"></i> Universitas Pattimura</strong> – Ilmu Komputer</p>
                         <p><strong><i class="fas fa-chart-line"></i> IPK Sementara:</strong> 3.45 (skala 4.00)</p>
                         <p><strong><i class="fas fa-trophy"></i> Prestasi Terkini:</strong> Juara Harapan 3 Peneliti Belia 2022 (Provinsi)</p>
@@ -218,8 +218,8 @@
                     <div class="w3-col s12 m4 w3-center"><i class="fas fa-graduation-cap" style="font-size: 48px; color:#b48c48;"></i></div>
                     <div class="w3-col s12 m8">
                         <div class="w3-bar-block">
-                            <div class="w3-bar-item"><i class="fas fa-university"></i> <strong>Universitas Pattimura</strong> – S1 Ilmu Komputer (2024–sekarang)<br>Semester 3, IPK 3.45</div>
-                            <div class="w3-bar-item"><i class="fas fa-school"></i> <strong>SMA Swasta Kristen Teon Nila Serua</strong> – IPA (Lulus 2024)/div>
+                            <div class="w3-bar-item"><i class="fas fa-university"></i> <strong>Universitas Pattimura</strong> – S1 Ilmu Komputer (2024–sekarang)<div>
+                            <div class="w3-bar-item"><i class="fas fa-school"></i> <strong>SMA Swasta Kristen Teon Nila Serua</strong> – IPA (Lulus 2024)<div>
                         </div>
                     </div>
                 </div>
@@ -305,7 +305,6 @@
                     <div class="w3-center w3-padding-48">
                         <i class="fas fa-hand-point-up" style="font-size: 48px; color: #d6b575;"></i>
                         <h3 class="w3-text-dark-grey">✨ Selamat datang ✨</h3>
-                        <p class="w3-text-grey">Klik salah satu menu di atas untuk melihat informasi lengkap tentang <strong>Status, Pengalaman, Pendidikan, Alamat, atau Skill</strong> saya.</p>
                         <div class="w3-margin-top">
                             <span class="section-badge"><i class="far fa-smile"></i> Portofolio interaktif</span>
                         </div>
